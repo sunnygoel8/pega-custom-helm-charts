@@ -1,0 +1,17 @@
+apiVersion: v1
+entries:
+  pega:
+  - apiVersion: v1
+    created: "2020-01-21T16:14:47.952144996-08:00"
+    description: Pega installation on kubernetes
+    digest: fc8ab1273d459b5e2b8a2c5ad5a8ed6a2b6be4774c96eeab07d18e8a5851a390
+    home: http://www.pega.com
+    keywords:
+    - pega
+    - prpc
+    - kubernetes
+    name: pega
+    urls:
+    - https://github.com/sunnygoel8/pega-custom-helm-charts/pega-1.2.0.tgz
+    version: 1.2.0
+generated: "2020-01-21T16:14:47.948271632-08:00"
